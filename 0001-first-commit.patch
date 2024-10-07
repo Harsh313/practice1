@@ -1,0 +1,26 @@
+From e419acc3e506400402a93e3706a7ed5e547151e9 Mon Sep 17 00:00:00 2001
+From: harsh313 <harsh313008@gmail.com>
+Date: Fri, 4 Oct 2024 11:28:58 +0530
+Subject: [PATCH] first commit
+
+---
+ h.cpp | 6 ++++++
+ 1 file changed, 6 insertions(+)
+ create mode 100644 h.cpp
+
+diff --git a/h.cpp b/h.cpp
+new file mode 100644
+index 0000000..e52697b
+--- /dev/null
++++ b/h.cpp
+@@ -0,0 +1,6 @@
++#include<iostream>
++using namespace std;
++int main (){
++    cout<<"heeee";
++    return 0;
++}
+\ No newline at end of file
+-- 
+2.45.2.windows.1
+

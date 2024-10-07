@@ -1,0 +1,20 @@
+From 04ea7e650bb6ade27a4782332fe1510be80dfde2 Mon Sep 17 00:00:00 2001
+From: harsh313 <harsh313008@gmail.com>
+Date: Mon, 7 Oct 2024 10:59:04 +0530
+Subject: [PATCH 3/3] Force treat specific file as text
+
+---
+ .gitattributes | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 .gitattributes
+
+diff --git a/.gitattributes b/.gitattributes
+new file mode 100644
+index 0000000..f272de5
+--- /dev/null
++++ b/.gitattributes
+@@ -0,0 +1 @@
++"your_actual_file text" 
+-- 
+2.45.2.windows.1
+
